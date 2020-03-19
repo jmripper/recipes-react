@@ -51,7 +51,7 @@ const HomePage = props => {
       <ImageBackground src={Img} />
       <TextBox>
         <h2>La Recipes</h2>
-        <ATag to="/recipes">View Recipes</ATag>
+        <ATag to="/recipes">View Recipes&nbsp;&rarr;</ATag>
       </TextBox>
     </>
   );
